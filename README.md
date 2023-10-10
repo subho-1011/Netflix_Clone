@@ -1,3 +1,7 @@
+# Netflix-Clone Frontend
+https://netflix-clone-4ac7b.firebaseapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
